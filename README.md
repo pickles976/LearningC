@@ -13,3 +13,5 @@ sudo yum install SDL2-devel
 Understanding this guy:
 
 https://stackoverflow.com/questions/36560508/how-dynamic-linking-works-its-usage-and-how-and-why-you-would-make-a-dylib
+
+https://lazyfoo.net/tutorials/SDL/04_key_presses/index.php
